@@ -498,8 +498,8 @@ Le rapport complet est disponible ici : [`rapport/Rapport_Analyse_de_Donnees.pdf
 
 ## 👤 Auteur
 
-**GBADAMASSI Aziz**  
-Master Informatique & Management — Semestre 1  
+**AZIZ GBADAMASSI Alain et SA Alexandre**  
+Master Ingénierie Mathématique — Semestre 1  
 *Projet d'Analyse de Données*
 
 ---
