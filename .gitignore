@@ -1,0 +1,19 @@
+# Fichiers R temporaires
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Fichiers systèmes Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers LibreOffice temporaires
+~$*
+*.odt
+
+# Fichiers ZIP
+*.zip
+
+# Fichiers de données sensibles (si applicable)
+# data/*.csv  # Décommentez pour exclure le CSV
