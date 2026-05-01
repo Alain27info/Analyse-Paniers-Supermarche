@@ -1,6 +1,6 @@
 # 🛒 Analyse de Données — Règles d'Association & Clustering
 
-> **Projet universitaire — Master Informatique & Management (Semestre 1)**  
+> **Projet universitaire — Master Ingénierie Mathématique (Semestre 1)**  
 > Analyse d'un dataset de paniers d'achat supermarché avec l'algorithme **Apriori** et le **K-Means clustering** en R.
 
 ---
